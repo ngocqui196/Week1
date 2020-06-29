@@ -1,0 +1,32 @@
+.form{
+    height: 300px;
+    width: 500px;
+    margin-left: 300px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    background-color: aqua;
+}
+#demo{
+    padding-right: 100px;
+    padding-left: 100px;
+    color: #0820ff;
+    background-color: red;
+    font-size: 32px;
+}
+#demo3{
+    margin-left: 10px;
+}
+#p{
+    margin-left: 39px;
+}
+p{
+    font-family: "Arial Unicode MS";
+}
+#ip {
+    margin-left: 120px;
+}
+
+h3 {
+    font-family: "Imprint MT Shadow";
+    font-size: 29px;
+}
